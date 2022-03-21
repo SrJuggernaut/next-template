@@ -20,17 +20,38 @@
     "incremental": true,
     "baseUrl": "src",
     "paths": {
+      "@adapters/*": [
+        "adapters/*"
+      ],
+      "@assets/*": [
+        "/assets*"
+      ],
       "@components/*": [
-        "components/*"
+        "/components*"
+      ],
+      "@context/*": [
+        "/context*"
+      ],
+      "@hooks/*": [
+        "/hooks*"
+      ],
+      "@models/*": [
+        "/models*"
       ],
       "@pages/*": [
-        "pages/*"
+        "/pages*"
       ],
       "@public/*": [
-        "public/*"
+        "/public*"
+      ],
+      "@services/*": [
+        "/services*"
       ],
       "@styles/*": [
-        "styles/*"
+        "/styles*"
+      ],
+      "@utilities/*": [
+        "/utilities*"
       ],
     },
   },
