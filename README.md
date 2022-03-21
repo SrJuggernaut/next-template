@@ -9,6 +9,21 @@ This is a template for a new SrJuggernaut Next project.
   - Standard
 - Commitlint
 
+## Use this template
+
+### Yarn
+```bash
+yarn create next-app my-app -e https://github.com/SrJuggernaut/next-template
+cd my-app
+yarn husky install
+```
+### NPM
+```bash
+npx create-next-app@latest my-app -e https://github.com/SrJuggernaut/next-template
+cd my-app
+npx husky install
+```
+
 ## Getting Started
 
 First, run the development server:
