@@ -13,13 +13,13 @@ This is a template for a new SrJuggernaut Next project.
 
 ### Yarn
 ```bash
-yarn create next-app my-app -e https://github.com/SrJuggernaut/next-template
+yarn create next-app my-app -e https://github.com/SrJuggernaut/next-template/tree/clean
 cd my-app
 yarn husky install
 ```
 ### NPM
 ```bash
-npx create-next-app@latest my-app -e https://github.com/SrJuggernaut/next-template
+npx create-next-app@latest my-app -e https://github.com/SrJuggernaut/next-template/tree/clean
 cd my-app
 npx husky install
 ```
