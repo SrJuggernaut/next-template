@@ -24,34 +24,34 @@
         "adapters/*"
       ],
       "@assets/*": [
-        "/assets*"
+        "assets/*"
       ],
       "@components/*": [
-        "/components*"
+        "components/*"
       ],
       "@context/*": [
-        "/context*"
+        "context/*"
       ],
       "@hooks/*": [
-        "/hooks*"
+        "hooks/*"
       ],
       "@models/*": [
-        "/models*"
+        "models/*"
       ],
       "@pages/*": [
-        "/pages*"
+        "pages/*"
       ],
       "@public/*": [
-        "/public*"
+        "public/*"
       ],
       "@services/*": [
-        "/services*"
+        "services/*"
       ],
       "@styles/*": [
-        "/styles*"
+        "styles/*"
       ],
       "@utilities/*": [
-        "/utilities*"
+        "utilities/*"
       ],
     },
   },
