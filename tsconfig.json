@@ -27,7 +27,7 @@
         "pages/*"
       ],
       "@public/*": [
-        "public/*"
+        "../public/*"
       ],
       "@styles/*": [
         "styles/*"
