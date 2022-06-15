@@ -29,8 +29,8 @@
       "@components/*": [
         "components/*"
       ],
-      "@context/*": [
-        "context/*"
+      "@contexts/*": [
+        "contexts/*"
       ],
       "@hooks/*": [
         "hooks/*"
@@ -42,7 +42,7 @@
         "pages/*"
       ],
       "@public/*": [
-        "public/*"
+        "../public/*"
       ],
       "@services/*": [
         "services/*"
