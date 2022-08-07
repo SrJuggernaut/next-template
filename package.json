@@ -6,7 +6,8 @@
     "develop": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postinstall": "husky install"
   },
   "dependencies": {
     "eslint-plugin-n": "^15.2.4",
