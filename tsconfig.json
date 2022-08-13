@@ -35,8 +35,8 @@
       "@hooks/*": [
         "hooks/*"
       ],
-      "@models/*": [
-        "models/*"
+      "@interfaces/*": [
+        "interfaces/*"
       ],
       "@pages/*": [
         "pages/*"
