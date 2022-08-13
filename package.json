@@ -10,7 +10,6 @@
     "postinstall": "husky install"
   },
   "dependencies": {
-    "eslint-plugin-n": "^15.2.4",
     "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
@@ -22,10 +21,11 @@
     "@types/react": "18.0.17",
     "@typescript-eslint/eslint-plugin": "^5.33.0",
     "@typescript-eslint/parser": "^5.33.0",
-    "eslint": "^8.21.0",
+    "eslint": "^8.0.1",
     "eslint-config-next": "12.2.5",
     "eslint-config-standard": "^17.0.0",
-    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-react": "^7.30.1",
