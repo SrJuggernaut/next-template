@@ -39,5 +39,10 @@
         ]
       }
     ]
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
   }
 }
